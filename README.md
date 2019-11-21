@@ -46,8 +46,7 @@ Department of Information System
 
 
 
-</html>
-<!DOCTYPE html>
+
 <html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -150,7 +149,7 @@ Students may not repeat IS 300 or 310 more than once.</p>
 
 
 
-<!DOCTYPE html>
+
 <html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -177,25 +176,23 @@ To reach any UMBC office, department, faculty member or student, please call our
 Baltimore, MD 21250</p>
 
 <h2>Important Phone Numbers</h2>
-</p>
-
-Information	410-455-1000</p>
-Admissions</p>
-   Undergraduate	410-455-2291</p>
-    Graduate	410-455-2537</p>
-    Division of Professional Studies	410-455-2336</p>
-    Summer and Winter Sessions	410-455-2335</p>
-Alumni Relations	410-455-2904</p>
-Athletics	410-455-2126</p>
-ArtsLine	410-455-ARTS</p>
-Career Services Center	410-455-2216</p>
-Communications / Media Relations	410-455-8117</p>
-Financial Aid and Scholarships	410-455-2387</p>
-Library	410-455-2233</p>
-Parking Services	410-455-2551</p>
-Police	410-455-3133</p>
-Residential Life	410-455-2591
-Shriver Center	410-455-2493</p>
-Student Business Services	410-455-2288</p>
-UMBC Training Centers	443-692-6600
+<p>Information	410-455-1000</p>
+<p>Admissions</p>
+   <p>Undergraduate	410-455-2291</p>
+    <p>Graduate	410-455-2537</p>
+    <p>Division of Professional Studies	410-455-2336</p>
+    <p>Summer and Winter Sessions	410-455-2335</p>
+<p>Alumni Relations	410-455-2904</p>
+<p>Athletics	410-455-2126</p>
+<p>ArtsLine	410-455-ARTS</p>
+<p>Career Services Center	410-455-2216</p>
+<p>Communications / Media Relations	410-455-8117</p>
+<p>Financial Aid and Scholarships	410-455-2387</p>
+<p>Library	410-455-2233</p>
+<p>Parking Services	410-455-2551</p>
+<p>Police	410-455-3133</p>
+<p>Residential Life	410-455-2591
+<p>Shriver Center	410-455-2493</p>
+<p>Student Business Services	410-455-2288</p>
+<p>UMBC Training Centers	443-692-6600
 </p>
