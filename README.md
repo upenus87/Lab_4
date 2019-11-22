@@ -26,7 +26,7 @@ Department of Information System
  <img src="https://styleguide.umbc.edu/files/2019/01/UMBC-primary-logo-RGB-1024x236.png" />
  </div>
  <div id="text">
- 
+ image
     <h2>UMBC News</h2>
 <h3>UMBC broadens international learning opportunities: Stories from five continents</h3>
 <h3>UMBC Cyber Dawgs are named CyberForce national champions</h3>
