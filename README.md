@@ -17,7 +17,7 @@
 <body>
 <html>
 <input type="text" placeholder="Class Search..">
-  </div>
+  
 <h1>
 Department of Information System
 </h1>
