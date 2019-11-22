@@ -35,10 +35,13 @@ Department of Information System
     <h2>UMBC News</h2>
  </div>
  <p>
+<p>
+
 <a href="Home.html" title="Home">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-                    <a href="Information System.html" title="Information System">Information System</a>
-                    <a href ="ContactUs.html" title ="ContactUs">Contact Us</a>
+                    <a href="Information System.html" title="Information System">Information System</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    <a href ="ContactUs.html" title ="ContactUs">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
                 </p>
+
 
 
 
@@ -62,8 +65,7 @@ Department of Information System
 
 </nav>
 
-</body>
-</html>
+
 
  
 <h1>
