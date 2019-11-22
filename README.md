@@ -145,7 +145,7 @@ Students may not repeat IS 300 or 310 more than once.</p>
                 </p>
 
 
-                                                    <h1>SECOND PAGE</h1>
+                                                    <h1>THIRD PAGE</h1>
 
 <html>
 <meta charset="UTF-8">
