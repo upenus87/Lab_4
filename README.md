@@ -16,7 +16,7 @@
 
 <body>
 <html>
-
+<input type="text" placeholder="Search..">
  <div class="search-container">
     <form action="/action_page.php">
       <input type="text" placeholder="Class Search.." name="search">
