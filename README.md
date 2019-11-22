@@ -47,7 +47,7 @@ Department of Information System
 
 
 
-                                                  <h1>SECOND PAGE</h1>
+                                                  SECOND PAGE
 
 
 
@@ -145,7 +145,7 @@ Students may not repeat IS 300 or 310 more than once.</p>
                 </p>
 
 
-                                                    <h1>THIRD PAGE</h1>
+                                                    THIRD PAGE
 
 <html>
 <meta charset="UTF-8">
