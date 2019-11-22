@@ -142,13 +142,6 @@ Students may not repeat IS 300 or 310 more than once.</p>
                     <a href ="ContactUs.html" title ="ContactUs">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
                 </p>
 
-</body>
-</html>
-
-
-
-
-
 
 
 
