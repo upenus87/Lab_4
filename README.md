@@ -28,6 +28,13 @@ Department of Information System
  <div id="text">
  Image
     <h2>UMBC News</h2>
+<h3>UMBC broadens international learning opportunities: Stories from five continents</h3>
+<h3>UMBC Cyber Dawgs are named CyberForce national champions</h3>
+<h3>UMBC celebrates opening of student venture OCA Mocha, “where coffee meets community”</h3>
+<h3>UMBC’s Aaron Smith examines molecular role of iron in human health with $1.5M in new grants</h3>
+<h3>The Future of W.E. B. Du Bois: Nimi Wariboko presents UMBC’s 41st annual W.E.B. Du Bois lecture</h3>
+<h3>We have liftoff! UMBC-developed mini satellite launched into space to study climate, air quality</h3>
+
  </div>
  <p>
 <p>
@@ -40,7 +47,7 @@ Department of Information System
 
 
 
-
+                                                  <h1>SECOND PAGE</h1>
 
 
 
@@ -138,7 +145,7 @@ Students may not repeat IS 300 or 310 more than once.</p>
                 </p>
 
 
-
+                                                    <h1>SECOND PAGE</h1>
 
 <html>
 <meta charset="UTF-8">
