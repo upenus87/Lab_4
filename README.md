@@ -17,10 +17,6 @@
 <body>
 <html>
 <input type="text" placeholder="Class Search..">
-    <form action="/action_page.php">
-      <input type="text" placeholder="Class Search.." name="search">
-      <button type="submit"><i class="fa fa-search"></i></button>
-    </form>
   </div>
 <h1>
 Department of Information System
